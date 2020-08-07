@@ -17,3 +17,5 @@ Dear friend, please be true to yourself yet kind to others
 Thank you.
 
 ---
+
+From [here](https://github.com/ntoll/being_together).

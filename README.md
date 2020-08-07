@@ -13,12 +13,12 @@ Not a code of conduct, but like a code of conduct.
 > Therefore,
 > 
 > This is a place of learning, understanding, and sharing.  
-> This is a place to affirm openness and compassion.
+> This is a place to affirm openness and compassion.  
 > This is a place for collaborative creation.
 >
-> Dear friend, please be true to yourself yet kind to others
+> Dear friend, please be true to yourself yet kind to others   
 > (even in the face of hostility).
 >
 > Thank you.
 
-This is a work in progress.
+This is a work in progress. Inspired by [this](https://github.com/Xe/creators-code).
