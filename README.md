@@ -5,7 +5,7 @@ project).
 
 Not a code of conduct, but like a code of conduct.
 
-> When being together,
+> When being together,  
 > acknowledge and work through differences.
 >
 > This mutually enlarges and changes us.
