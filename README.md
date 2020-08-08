@@ -16,7 +16,7 @@ Not a code of conduct, but like a code of conduct.
 > This is a place to affirm openness and compassion.  
 > This is a place for collaborative creation.
 >
-> Dear friend, please be true to yourself yet kind to others   
+> Bring all of yourself, and welcome others  
 > (even in the face of hostility).
 >
 > Thank you.
