@@ -5,20 +5,30 @@ project).
 
 Not a code of conduct, but like a code of conduct.
 
-> When being together,  
-> acknowledge and work through differences.
->
-> This mutually enlarges and changes us.
->
-> Therefore,
-> 
-> This is a place of learning, understanding, and sharing.  
-> This is a place to affirm openness and compassion.  
-> This is a place for collaborative creation.
->
-> Bring all of yourself, and welcome others  
-> (even in the face of hostility).
->
-> Thank you.
+```
+Together, when things go wrong,  
+we acknowledge and work through differences.  
+In so doing, we transform and enlarge each other.
+
+To nurture our mutual growth,
+
+  this is a place of  
+    learning, understanding, and sharing;  
+  this is a place to  
+    affirm openness and compassion;  
+  this is a place for  
+    collaborative creation.
+
+All the parts of yourself you choose to bring to this place  
+are welcome here.
+
+Reciprocate! Welcome, embrace and learn from others  
+(even in the face of apparent hostility or misunderstanding).
+
+To act against this spirit invites ostracism, 
+a loss that diminishes us all.
+
+Thank you.
+```
 
 This is a work in progress. Inspired by [this](https://github.com/Xe/creators-code).
