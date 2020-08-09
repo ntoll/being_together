@@ -1,6 +1,6 @@
 # Being Together
 
-A poetic expression of being together in the same place (such as a software
+A poetic expression of being together in a specific "place" (such as a software
 project).
 
 Not a code of conduct, but like a code of conduct.
@@ -14,8 +14,10 @@ To nurture our mutual growth,
 
   this is a place of  
     learning, understanding, and sharing;  
+
   this is a place to  
     affirm openness and compassion;  
+
   this is a place for  
     collaborative creation.
 

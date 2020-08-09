@@ -9,8 +9,10 @@ To nurture our mutual growth,
 
   this is a place of  
     learning, understanding, and sharing;  
+
   this is a place to  
     affirm openness and compassion;  
+
   this is a place for  
     collaborative creation.
 
