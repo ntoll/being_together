@@ -1,7 +1,7 @@
-# Being Together
+# On Being Together
 
 ```
-Together, when things go wrong,  
+When working together or if things go wrong,  
 we acknowledge and work through differences.  
 In so doing, we transform and enlarge each other.
 
@@ -11,12 +11,12 @@ To nurture our mutual growth,
     learning, understanding, and sharing;  
 
   this is a place to  
-    affirm openness and compassion;  
+    affirm tolerance and compassion;  
 
   this is a place for  
-    collaborative creation.
+    collaborative creativity.
 
-All the parts of yourself you choose to bring to this place  
+All the aspects of yourself you choose to bring to this place  
 are welcome here.
 
 Reciprocate! Welcome, embrace and learn from others  

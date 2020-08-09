@@ -1,12 +1,16 @@
-# Being Together
+# On Being Together
 
 A poetic expression of being together in a specific "place" (such as a software
 project).
 
-Not a code of conduct, but like a code of conduct.
+Sadly, in such divided times, folks may need reminding of an alternative way of
+being together based on mutual respect, tolerance and compassion. Without such
+things wonderfully diverse and rich groups of people cannot come together.
+
+It's not a code of conduct, but like a code of conduct.
 
 ```
-Together, when things go wrong,  
+When working together or if things go wrong,  
 we acknowledge and work through differences.  
 In so doing, we transform and enlarge each other.
 
@@ -16,12 +20,12 @@ To nurture our mutual growth,
     learning, understanding, and sharing;  
 
   this is a place to  
-    affirm openness and compassion;  
+    affirm tolerance and compassion;  
 
   this is a place for  
-    collaborative creation.
+    collaborative creativity.
 
-All the parts of yourself you choose to bring to this place  
+All the aspects of yourself you choose to bring to this place  
 are welcome here.
 
 Reciprocate! Welcome, embrace and learn from others  
