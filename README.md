@@ -1,13 +1,10 @@
 # On Being Together
 
-A poetic expression of being together in a specific "place" (such as a software
-project).
+A poetic affirmation of being together based on mutual respect, tolerance and
+compassion. Without such things wonderfully diverse and rich groups of people
+cannot come together to collaborate.
 
-Sadly, in such divided times, folks may need reminding of an alternative way of
-being together based on mutual respect, tolerance and compassion. Without such
-things wonderfully diverse and rich groups of people cannot come together.
-
-It's not a code of conduct, but like a code of conduct.
+[Here's why](https://ntoll.org/article/on-being-together/).
 
 ```
 When working together or if things go wrong,  
@@ -37,4 +34,4 @@ a loss that diminishes us all.
 Thank you.
 ```
 
-This is a work in progress. Inspired by [this](https://github.com/Xe/creators-code).
+This is a work in progress.
