@@ -1,7 +1,7 @@
 # On Being Together
 
 ```
-When working together or if things go wrong,  
+When being together, especially if things go wrong,  
 we acknowledge and work through differences.  
 In so doing, we transform and enlarge each other.
 
