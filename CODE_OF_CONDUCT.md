@@ -22,6 +22,9 @@ are welcome here.
 Reciprocate! Welcome, embrace and learn from others  
 (even in the face of apparent hostility or misunderstanding).
 
+Thoughtful, careful and courteous contributions are a gift,
+and we never knowingly diminish, dehumanize or harm others.
+
 To act against this spirit invites ostracism, 
 a loss that diminishes us all.
 
