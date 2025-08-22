@@ -4,6 +4,8 @@ A poetic affirmation of being together based on mutual respect, tolerance and
 compassion. Without such things wonderfully diverse and rich groups of people
 cannot come together to collaborate.
 
+An alternative to, and definitely not, a code of conduct.
+
 [Here's why](https://ntoll.org/article/on-being-together/).
 
 ```
